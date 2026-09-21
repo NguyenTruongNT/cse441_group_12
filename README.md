@@ -46,7 +46,7 @@
 ## 📁 4. Cấu trúc thư mục dự án (Dự kiến)
 
 ```text
-CSE441-Group12-Mobile/
+cse441_group_12/
 ├── .github/                      # GitHub configurations & templates
 │   └── pull_request_template.md  # Template cho Pull Request
 ├── assets/                       # Tài nguyên hình ảnh, biểu tượng, fonts
@@ -74,8 +74,8 @@ CSE441-Group12-Mobile/
 
 1. **Clone repository về máy:**
    ```bash
-   git clone https://github.com/NguyenTruongNT/CSE441-Group12-Mobile.git
-   cd CSE441-Group12-Mobile
+   git clone https://github.com/NguyenTruongNT/cse441_group_12.git 
+   cd cse441_group_12 
    ```
 
 2. **Cài đặt các gói phụ thuộc (Dependencies):**
