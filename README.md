@@ -46,7 +46,7 @@
 ## 📁 4. Cấu trúc thư mục dự án (Dự kiến)
 
 ```text
-cse441_group_12/
+CSE441-Group12-Mobile/
 ├── .github/                      # GitHub configurations & templates
 │   └── pull_request_template.md  # Template cho Pull Request
 ├── assets/                       # Tài nguyên hình ảnh, biểu tượng, fonts
