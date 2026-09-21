@@ -23,7 +23,7 @@
 
 | STT | Họ và Tên | Mã Sinh Viên (MSSV) | Vai Trò | Nhiệm Vụ Phụ Trách | GitHub Profile |
 |:---:|:---|:---:|:---:|:---|:---|
-| 1 | **Nguyễn Văn Trường** | 2351170625 | Trưởng nhóm (Team Leader) | [Chờ phân công sau khi chốt đề tài] | [@username](https://github.com/NguyenTruongNT) |
+| 1 | **Nguyễn Văn Trường** | 2351170625 | Trưởng nhóm (Team Leader) | [Chờ phân công sau khi chốt đề tài] | [NguyenTruongNT](https://github.com/NguyenTruongNT) |
 | 2 | **Vũ Tuấn Khanh** | 2251172386 | Thành viên | [Chờ phân công sau khi chốt đề tài] | [@username](https://github.com/) |
 | 3 | **Đinh Trọng Nhật** | 2351060476 | Thành viên | [Chờ phân công sau khi chốt đề tài] | [@username](https://github.com/) |
 | 4 | **Vũ Hải Đăng** | 2351170580 | Thành viên | [Chờ phân công sau khi chốt đề tài] | [@username](https://github.com/) |
@@ -74,8 +74,8 @@ cse441_group_12/
 
 1. **Clone repository về máy:**
    ```bash
-   git clone git@github.com:hhuynh2005/cse441_group_16.git
-   cd cse441_group_16
+   git clone https://github.com/NguyenTruongNT/CSE441-Group12-Mobile.git
+   cd CSE441-Group12-Mobile
    ```
 
 2. **Cài đặt các gói phụ thuộc (Dependencies):**
